@@ -1,0 +1,9 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    font-family: 'century gothic', Arial;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Agency FB', Arial;
+}
